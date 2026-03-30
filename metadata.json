@@ -1,0 +1,8 @@
+{
+  "name": "Hardsub-Killer OCR",
+  "description": "High-performance Hardsub OCR Extraction System with Frutiger Aero aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
