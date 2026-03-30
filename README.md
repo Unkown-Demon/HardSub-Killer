@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="[https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6](https://chatgpt.com/backend-api/estuary/content?id=file_000000002f0471f48707a04bfbb2bf45&ts=493023&p=fs&cid=1&sig=65f50a60e4ff139f3d293a16b58f8c5e1e4e7c0f643fccc555962d4f3a59ce7b&v=0)" />
+  <img src="assets/banner.png" width="100%" />
 </div>
 # 💀 Hardsub-Killer OCR Engine
 
