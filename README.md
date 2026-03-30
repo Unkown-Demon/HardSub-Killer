@@ -3,6 +3,8 @@
 </div>
 # 💀 Hardsub-Killer OCR Engine
 
+wanna seee prewiew : https://hardstyle-subkiller67.netlify.app/
+
 > Hardcoded subtitles don’t get extracted.
 > They get eliminated.
 
