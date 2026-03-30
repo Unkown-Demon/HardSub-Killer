@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" style="max-width: 900px; width: 100%; border-radius: 12px;" />
+  <img src="image.png" style="max-width: 900px; width: 100%; border-radius: 12px;" />
 </div>
 # 💀 Hardsub-Killer OCR Engine
 
